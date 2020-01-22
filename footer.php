@@ -1,19 +1,21 @@
 <div class="links">
-  <h3><img src="<?php bloginfo('template_directory'); ?>/img/info_ttl.png" alt=""></h3>
+  <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/info_ttl.png" alt=""></h3>
   <ul>
     <li><a href="<?php echo home_url(); ?>/category/speakers"><img src="<?php bloginfo('template_directory'); ?>/img/footer_btn01.png" alt="登壇者情報"></a></li>
     <li><a href="<?php echo home_url(); ?>/schedule"><img src="<?php bloginfo('template_directory'); ?>/img/footer_btn02.png" alt="講演スケジュール"></a></li>
     <li><a href="<?php echo home_url(); ?>/coming"><img src="<?php bloginfo('template_directory'); ?>/img/footer_btn03.png" alt="展示ブース"></a></li>
     <li><a href="<?php echo home_url(); ?>/faq"><img src="<?php bloginfo('template_directory'); ?>/img/footer_btn04.png" alt="FAQ"></a></li>
-  </ul>
+  </ul> -->
 </div>
 
 <div class="footer_cv">
-  <div class="footer_cvimg"></div>
-  <div class="footer_cvimg_sp"><img src="<?php bloginfo('template_directory'); ?>/img/footer_cvimg_sp.png" alt=""></div>
+  <!-- <div class="footer_cvimg"></div> -->
+  <!-- <div class="footer_cvimg_sp"><img src="<?php bloginfo('template_directory'); ?>/img/footer_cvimg_sp.png" alt=""></div> -->
   <div class="footer_cvbtn">
-    <div>
+    <div class="footer_cvbtn__wrapper">
       <a href="" target="_blank">イベントへのお申し込みはこちら</a>
+      <span class="footer_cvbtn__backDrop"></span>
+      <span class="banner__preparation">Coming Soon</span>
     </div>
   </div>
 </div>

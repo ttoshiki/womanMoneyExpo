@@ -1,19 +1,20 @@
 <?php get_header(); ?>
-<div class="slider_wrapper">
-  <ul class="slider">
+<!-- <div class="slider_wrapper"> -->
+  <!-- <ul class="slider"> -->
 
 <!-- トップスライダー -->
 
- <li><a href="https://smartbeauty-expo.com/speakers/uno-kanda/"><img src="<?php bloginfo('template_directory'); ?>/img/slider4.png" alt="神田うのさん登壇決定！"></a>
+ <!-- <li><a href="https://smartbeauty-expo.com/speakers/uno-kanda/"><img src="<?php bloginfo('template_directory'); ?>/img/slider4.png" alt="神田うのさん登壇決定！"></a>
  <li><a href="" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/slider1.jpg" alt="image01"></a></li>
 <li><a href="<?php echo home_url(); ?>/category/speakers"><img src="<?php bloginfo('template_directory'); ?>/img/slider2.png" alt="image02"></a></li>
- <li><a href="<?php echo home_url(); ?>/about"><img src="<?php bloginfo('template_directory'); ?>/img/slider3.png" alt="image03"></a></li>
+ <li><a href="<?php echo home_url(); ?>/about"><img src="<?php bloginfo('template_directory'); ?>/img/slider3.png" alt="image03"></a></li> -->
 
 
 
-  </li>
-  </ul>
-</div>
+  <!-- </li> -->
+  <!-- </ul> -->
+<!-- </div> -->
+<img src="<?php bloginfo('template_directory'); ?>/img/header.jpg" alt="" class="header_img">
 <div class="container_wrapper">
   <div class="container clearfix">
     <div class="contents">

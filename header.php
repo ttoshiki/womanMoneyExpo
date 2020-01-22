@@ -35,10 +35,10 @@ if (windowWidth <= windowSm) {
 <header>
   <div class="header-inner clearfix">
     <div class="headinfo clearfix">
-      <a class="logo" href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_directory'); ?>/img/logo.png" alt="smartbeautyexpo"></a>
+      <a class="logo" href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_directory'); ?>/img/logo.png" alt="smartbeautyexpo" class="header_logo"></a>
       <img class="data" src="<?php bloginfo('template_directory'); ?>/img/date.png" alt="2019.10.20[SUN]11:00 - 17:30">
     </div>
-    <div class="headbutton"><a href="" target="_blank">お申し込みはこちら</a></div>
+    <div class="headbutton"><a href="" target="_blank">お申し込みはこちら</a><div class="backDrop -header"></div><span class="banner__preparation">Coming Soon</span></div>
   </div>
   <div class="nav">
     <div class="menu_button">
