@@ -19,7 +19,7 @@
   <div class="container clearfix">
     <div class="contents">
       <?php
-      if (get_queried_object_id() === 61) {
+      if ($term->slug === 'booth') {
           ?>
       <h1 class="comingSoon">Coming Soon</h1>
       <?php
