@@ -15,7 +15,7 @@
     <div class="footer_cvbtn__wrapper">
       <a href="" target="_blank">イベントへのお申し込みはこちら</a>
       <span class="footer_cvbtn__backDrop"></span>
-      <span class="banner__preparation">Coming Soon</span>
+      <span class="banner__preparation">準備中</span>
     </div>
   </div>
 </div>

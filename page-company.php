@@ -1,7 +1,10 @@
 <?php get_header(); ?>
 <div class="container_wrapper">
-  <div class="udr_ttlimg">
+  <!-- <div class="udr_ttlimg">
     <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/company_udrttl.png" alt="運営会社"></div>
+  </div> -->
+  <div class="about__pageHeader">
+    <h1 class="pageHeaderHeading">Company<span class="pageHeaderJp">運営会社</span></h1>
   </div>
   <div class="container clearfix">
     <div class="contents">
@@ -28,7 +31,7 @@
             <td><a href="http://smartbe8.com/" target="_blank">http://smartbe8.com/</a></td>
           </tr>
         </table>
-      </div>      
+      </div>
     </div>
     <?php get_sidebar(); ?>
   </div>

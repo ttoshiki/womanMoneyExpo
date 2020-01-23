@@ -1,7 +1,10 @@
 <?php get_header(); ?>
 <div class="container_wrapper">
-  <div class="udr_ttlimg">
+  <!-- <div class="udr_ttlimg">
     <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/privacy_udrttl.png" alt="プライバシーポリシー"></div>
+  </div> -->
+  <div class="about__pageHeader">
+    <h1 class="pageHeaderHeading">Privacy Policy<span class="pageHeaderJp"><br class="sp">プライバシーポリシー</span></h1>
   </div>
   <div class="container clearfix">
     <div class="contents">

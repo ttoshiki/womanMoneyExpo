@@ -1,8 +1,11 @@
 <?php get_header(); ?>
 <div class="container_wrapper">
-    <div class="udr_ttlimg">
+    <!-- <div class="udr_ttlimg">
         <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/exb_udrttl.png"
                 alt="出展のご案内"></div>
+    </div> -->
+    <div class="about__pageHeader">
+        <h1 class="pageHeaderHeading">Exhibition<span class="pageHeaderJp">出典のご案内</span></h1>
     </div>
     <div class="container clearfix">
         <div class="contents">

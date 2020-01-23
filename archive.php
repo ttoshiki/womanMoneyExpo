@@ -4,24 +4,31 @@
     $cat = $cat[0];
 ?>
 <div class="container_wrapper container_each_<?php echo $cat->category_nicename; ?>">
-  <div class="udr_ttlimg">
+  <!-- <div class="udr_ttlimg">
     <div class="udr_ttlimg_inner"><img
         src="<?php bloginfo('template_directory'); ?>/img/<?php echo $cat->category_nicename; ?>_udrttl.png"
         alt="<?php echo $cat->category_nicename; ?>"></div>
+  </div> -->
+  <?php
+    $term_id = get_queried_object_id();
+    $term = get_term_by('id', $term_id, 'category');
+  ?>
+  <div class="about__pageHeader">
+    <h1 class="pageHeaderHeading"><?php echo ucfirst($term->slug) ?><span class="pageHeaderJp"><?php echo single_term_title(); ?></span></h1>
   </div>
   <div class="container clearfix">
-    <?php
-    if (get_queried_object_id() === 2) {
-        ?>
-    <h1 class="comingSoon">Coming Soon</h1>
-    <?php
-    } ?>
     <div class="contents">
+      <?php
+      if (get_queried_object_id() === 2) {
+          ?>
+      <h1 class="comingSoon">Coming Soon</h1>
+      <?php
+      } ?>
       <div class="archive_info info_<?php echo $cat->category_nicename; ?>">
         <div class="speakersComingSoon">
-          <p class="speakersComingSoon__text">WOMAN MONEY EXPOならではのゲストをお楽しみに！！</p>
+          <h2 class="speakersComingSoon__text">WOMAN MONEY EXPOならではのゲストをお楽しみに！！</h2>
         </div>
-        <h1 class="comingSoon">Coming Soon</h1>
+        <h1 class="comingSoon">Coming Soon...</h1>
         <!-- <p>美容、ダイエット、女性のお悩み、多岐にわたる分野の第一線で活躍する女性たちをお招きし最新の情報をお届けします。</p> -->
         <!-- <div class="info_link">
           <a href="" class="info_linkbtn">会場マップ</a>

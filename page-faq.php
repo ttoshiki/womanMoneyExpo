@@ -1,7 +1,10 @@
 <?php get_header(); ?>
 <div class="container_wrapper">
-  <div class="udr_ttlimg">
+  <!-- <div class="udr_ttlimg">
     <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/faq_udrttl.png" alt="よくある質問"></div>
+  </div> -->
+  <div class="about__pageHeader">
+    <h1 class="pageHeaderHeading">FAQ<span class="pageHeaderJp">よくある質問</span></h1>
   </div>
   <div class="container clearfix">
     <div class="contents">
@@ -10,8 +13,8 @@
           <p>お問い合わせの前に、本ページ内の「よくあるご質問（FAQ）」をご参照ください。<br>「よくあるご質問（FAQ）」で解決しなかった場合は、お手数ですが以下からお問い合わせください。</p>
           <a href="<?php echo home_url(); ?>/contact" class="faq_link" target="_blank">お問い合わせはこちら</a>
       <p class="small">※頂いたお問い合わせには3営業日以内にお答えさせて頂いております。</p>
-		<p>また、当日の会場マップは下記よりPDFでダウンロードいただけます。</p>
-		  <a href="" class="faq_link" target="_blank">会場マップはこちら</a>
+		<!-- <p>また、当日の会場マップは下記よりPDFでダウンロードいただけます。</p>
+		  <a href="" class="faq_link" target="_blank">会場マップはこちら</a> -->
 
 
       </div>
@@ -19,8 +22,9 @@
         <h3><img src="<?php bloginfo('template_directory'); ?>/img/faq_ttl.png" alt=""></h3>
         <div class="faq_info_one">
           <p class="q mt30">Q:EXPOへの参加方法を教えてください。</p>
-          <p>A:下記よりお申し込みいただけます。奮ってご参加ください。</p>
-          <a href="" target="_blank">お申し込みはこちら</a>
+          <p>現在準備中です。申し込みが可能になるまでお待ちください。</p>
+          <!-- <p>A:下記よりお申し込みいただけます。奮ってご参加ください。</p> -->
+          <!-- <a href="" target="_blank">お申し込みはこちら</a> -->
           <p>また、本イベントは大きく分けて「講義・セッション」「展示ブース」の2つから構成されています。講義・セッションには定員がございますので、参加希望の方は、事前申込を合わせてご利用ください。</P>
           <a href="<?php echo home_url(); ?>/category/speakers">講演・セッションの一覧はこちらから</a>
           <p class="a_small">※当日空きがあれば、予約がなくてもご入場可能です。<br>
@@ -36,7 +40,7 @@
 
 各プログラム、定員となり次第、締め切らせていただきますので、
 お早めのお申し込みをお勧めいたします。<br><br>
- <a href="" target="_blank">各講演・セッションへのお申込みはこちら</a>
+ <!-- <a href="" target="_blank">各講演・セッションへのお申込みはこちら</a> -->
 			</p>
           <!--
           <p class="q">Q:講義・セッションの事前申込はいつから可能ですか？</p>
@@ -53,8 +57,8 @@
         </div>--><!-- faq_info_one -->
         <div class="faq_info_one">
           <p class="q">Q:家族、友人など複数名のチケットを購入することはできますか？</p>
-          <p>A:可能です。下記申し込みフォームの青いボタン「複数チケット申し込みはこちら」をクリックしてご購入ください。</p>
-          <a href="" target="_blank">お申し込みはこちら</a>
+          <p>A:可能です。複数チケットのお申し込みが可能になるまでお待ちください。<!--下記申し込みフォームの青いボタン「複数チケット申し込みはこちら」をクリックしてご購入ください。--></p>
+          <!-- <a href="" target="_blank">お申し込みはこちら</a> -->
         </div><!-- faq_info_one -->
         <div class="faq_info_one">
           <p class="q">Q:男性も参加できますか？</p>
