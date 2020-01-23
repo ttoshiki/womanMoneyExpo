@@ -19,11 +19,11 @@
   <div class="container clearfix">
     <div class="contents">
       <?php
-      if (get_queried_object_id() === 2) {
+      if (get_queried_object_id() === 61) {
           ?>
       <h1 class="comingSoon">Coming Soon</h1>
       <?php
-      } ?>
+      } else {?>
       <div class="archive_info info_<?php echo $cat->category_nicename; ?>">
         <div class="speakersComingSoon">
           <h2 class="speakersComingSoon__text">WOMAN MONEY EXPOならではのゲストをお楽しみに！！</h2>
@@ -73,6 +73,7 @@
         <img src="<?php bloginfo('template_directory'); ?>/img/slider4.png"/>
       </a> -->
       </div>
+      <?php } ?>
 
 
 
