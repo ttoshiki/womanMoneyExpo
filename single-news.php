@@ -1,13 +1,16 @@
 <?php get_header(); ?>
 <div class="container_wrapper">
-  <div class="udr_ttlimg">
+  <!-- <div class="udr_ttlimg">
     <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/news_udrttl.png" alt=""></div>
+  </div> -->
+  <div class="about__pageHeader">
+    <h1 class="pageHeaderHeading">News<span class="pageHeaderJp">ニュース</span></h1>
   </div>
   <div class="container clearfix">
     <div class="contents">
       <div class="news">
         <?php $loop = new WP_Query(array("post_type" => "news"));
-        while(have_posts()):the_post(); ?>
+        while (have_posts()):the_post(); ?>
         <div class="news_one">
           <h4 class="news_title"><a href="<?php the_permalink(); ?>" ><?php the_title(); ?></a></h4>
           <div class="news_date"><p><?php echo get_the_date('Y.m.d'); ?></p></div>
