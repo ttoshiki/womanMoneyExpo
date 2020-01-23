@@ -115,10 +115,11 @@ table {
 }
 
 .speakersComingSoon {
-  border: 1px solid #bca319;
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 1px solid #bca319;
+  border-radius: 5px;
 }
 
 .speakersComingSoon__text {
