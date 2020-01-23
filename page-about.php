@@ -1,14 +1,17 @@
 <?php get_header(); ?>
 <div class="container_wrapper">
-  <div class="udr_ttlimg">
-    <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/about_udrttl.png" alt="開催概要"></div>
+  <!-- <div class="udr_ttlimg"> -->
+    <!-- <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/about_udrttl.png" alt="開催概要"></div> -->
+  <!-- </div> -->
+  <div class="about__pageHeader">
+    <h1 class="pageHeaderHeading">About<span class="pageHeaderJp">開催概要</span></h1>
   </div>
   <div class="container clearfix">
     <div class="contents">
       <div class="about_summery">
             <h1 class="comingSoon">Coming Soon</h1>
             <!-- <p>家事に仕事に、出産、育児、介護などライフステージがめまぐるしく変わる現代女性が「もっと自分らしく」「もっと美しく」生きられる世の中になって欲しい！<br><br>
-		  Smart Beauty EXPOはそんな願いから生まれました。<br><br>
+		  Woman Money EXPOはそんな願いから生まれました。<br><br>
 
 3回目を迎える今回は多くの女性の支持をいただき参加者数700名へと規模を拡大して開催します。<br><br>
 
@@ -25,7 +28,7 @@
         <table>
           <tr>
             <td class="left">名称</td>
-            <td>Smart Beauty EXPO - Autumn 2019 -</td>
+            <td>Woman Money EXPO - Autumn 2019 -</td>
           </tr>
           <tr>
             <td class="left">会期</td>
@@ -43,7 +46,7 @@
           </tr>
           <tr>
             <td class="left">参加特典</td>
-            <td>Smart Beauty EXPO 限定 特製クリアファイル</td>
+            <td>Woman Money EXPO 限定 特製クリアファイル</td>
           </tr>
           <tr>
             <td class="left">入場について</td>
