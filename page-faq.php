@@ -44,7 +44,7 @@
         </div><!-- faq_info_one -->
         <div class="faq_info_one">
           <p class="q">Q:事前申込をした講義・セッションはキャンセルできますか？</p>
-          <p>A:可能です。Smart Beauty EXPO事務局（info@smartbe8.com）までご連絡ください。</p>
+          <p>A:可能です。Woman Money EXPO事務局（info@smartbe8.com）までご連絡ください。</p>
         </div><!-- faq_info_one -->
         <!--<div class="faq_info_one">
           <p class="q">Q:申込み完了後に、セッションの追加申込みをすることは可能ですか？</p>

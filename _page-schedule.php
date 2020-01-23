@@ -9,7 +9,7 @@
         <h3><img src="<?php bloginfo('template_directory'); ?>/img/ttable_ttl.png" alt="タイムテーブル"></h3>
         <p class="sch_info_txt">講義・セッションのお申し込みは、10月11日(金)まで、先着順で受け付けております。各プログラム、定員になり次第、締め切らせていただきますので、お早めのお申し込みをお勧めいたします。<br>
         <br>
-        <a href="" target="_blank">Smart Beauty EXPOの参加申し込みはこちら</a></p>
+        <a href="" target="_blank">Woman Money EXPOの参加申し込みはこちら</a></p>
         <div class="sch_table">
           <div class="table_left">
             <ul>

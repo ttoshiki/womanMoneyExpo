@@ -8,6 +8,9 @@ content="width=device-width, initial-scale=1.0 ">
 <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.ico" />
 <link href="<?php bloginfo('template_directory'); ?>/js/slick-theme.css" rel="stylesheet" type="text/css">
 <link href="<?php bloginfo('template_directory'); ?>/js/slick.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/img/favicon.ico">
+<link rel="apple-touch-icon" href="<?php bloginfo('template_directory'); ?>/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="<?php bloginfo('template_directory'); ?>/img/android-chrome-256x256.png">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
 <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/slick.js"></script>
 <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/common.js"></script>
@@ -27,6 +30,7 @@ if (windowWidth <= windowSm) {
     //横幅640px超のとき（タブレット、PC）に行う処理を書く
 }
 </script>
+
 </head>
 <body <?php body_class(); ?>>
 <div id="top"></div>
@@ -35,7 +39,7 @@ if (windowWidth <= windowSm) {
 <header>
   <div class="header-inner clearfix">
     <div class="headinfo clearfix">
-      <a class="logo" href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_directory'); ?>/img/logo.png" alt="smartbeautyexpo" class="header_logo"></a>
+      <a class="logo" href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_directory'); ?>/img/logo.png" alt="womanmoneyexpo" class="header_logo"></a>
       <img class="data" src="<?php bloginfo('template_directory'); ?>/img/date.png" alt="2019.10.20[SUN]11:00 - 17:30">
     </div>
     <div class="headbutton"><a href="" target="_blank">お申し込みはこちら</a><div class="backDrop -header"></div><span class="banner__preparation">Coming Soon</span></div>

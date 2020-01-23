@@ -5,12 +5,23 @@
 ?>
 <div class="container_wrapper container_each_<?php echo $cat->category_nicename; ?>">
   <div class="udr_ttlimg">
-    <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/<?php echo $cat->category_nicename; ?>_udrttl.png" alt="<?php echo $cat->category_nicename; ?>"></div>
-</div>
-<div class="container clearfix">
+    <div class="udr_ttlimg_inner"><img
+        src="<?php bloginfo('template_directory'); ?>/img/<?php echo $cat->category_nicename; ?>_udrttl.png"
+        alt="<?php echo $cat->category_nicename; ?>"></div>
+  </div>
+  <div class="container clearfix">
+    <?php
+    if (get_queried_object_id() === 2) {
+        ?>
     <h1 class="comingSoon">Coming Soon</h1>
+    <?php
+    } ?>
     <div class="contents">
       <div class="archive_info info_<?php echo $cat->category_nicename; ?>">
+        <div class="speakersComingSoon">
+          <p class="speakersComingSoon__text">WOMAN MONEY EXPOならではのゲストをお楽しみに！！</p>
+        </div>
+        <h1 class="comingSoon">Coming Soon</h1>
         <!-- <p>美容、ダイエット、女性のお悩み、多岐にわたる分野の第一線で活躍する女性たちをお招きし最新の情報をお届けします。</p> -->
         <!-- <div class="info_link">
           <a href="" class="info_linkbtn">会場マップ</a>
@@ -43,18 +54,18 @@
           <a href="<?php echo home_url(); ?>/speakers/mayu-fuchigami/"><img src="<?php bloginfo('template_directory'); ?>/img/trouble08.png"></a>
         </div> -->
 
-      </div>
-    <div class="archive_title">
-      <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/<?php echo $cat->category_nicename; ?>_ttl.png" alt=""></h3>
-    </div>
-    <p class="archive_mainsubtitle info_<?php echo $cat->category_nicename; ?>">講演は今、女性が最も気になる17の旬のテーマでお送りします。<br>
+        <!-- </div> -->
+        <div class="archive_title">
+          <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/<?php echo $cat->category_nicename; ?>_ttl.png" alt=""></h3> -->
+        </div>
+        <!-- <p class="archive_mainsubtitle info_<?php echo $cat->category_nicename; ?>">講演は今、女性が最も気になる17の旬のテーマでお送りします。<br>
     各セッションの写真やタイトルをクリックすると、詳しい内容をご確認いただけます。講演は事前申込制ですので、お席の確保をご希望の方は<a href="https://ex-pa.jp/item/14406/s38069" target="_blank">こちら</a>よりお申し込みください。</p>
     <p class="info_<?php echo $cat->category_nicename; ?>"><font size=2>※予告なしに登壇者が変更する可能性もございます。</font></p>
     <div class="archive_banner_img01 info_<?php echo $cat->category_nicename; ?>">
       <a href="<?php echo home_url(); ?>/speakers/uno-kanda/">
         <img src="<?php bloginfo('template_directory'); ?>/img/slider4.png"/>
       </a> -->
-    </div>
+      </div>
 
 
 
@@ -77,7 +88,7 @@
               echo ' </ul> ';
           }
         ?> -->
-        </div>
+      </div>
       <div class="archive_all">
         <!-- <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
           <div class="article">
@@ -94,8 +105,8 @@
           <?php endwhile; else: ?>
             <div>記事がありませんでした。</div>
           <?php endif; ?> -->
-        </div>
-         <!-- <div class="archive_pager">
+      </div>
+      <!-- <div class="archive_pager">
               <div><?php previous_posts_link('前のページ'); ?></div>
               <div><?php next_posts_link('次のページ'); ?></div>
           </div> -->

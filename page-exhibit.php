@@ -9,13 +9,13 @@
             <div class="faq_summery">
                 <h1 class="comingSoon">Coming Soon</h1>
                 <!-- <h1>発信力の高い700人の女性が集まる<br>
-                    Smart Beauty EXPO - Autumn 2019 -<br>
+                    Woman Money EXPO - Autumn 2019 -<br>
                     出展者募集</h1>
                 <h2 class="small">貴社の想いを700人の女性に直接届けませんか?</h2>
                 <p class="">女性の幸せには心と身体が美しくあることが必須であるとSmart
                     Beは考えます。しかし現代女性には仕事に結婚に妊娠・出産、親の介護など、どうしてもやりたいこと、やらねばならないことが多くあり、「美は後回し」という状態になってしまいがちです。<br>
                     <br>
-                    そこでSmart Beでは忙しい現代女性が「もっと自分らしく」「もっと美しく」理想の人生を送るための有益な情報が、たった1日で手に入れられるSmart Beauty
+                    そこでSmart Beでは忙しい現代女性が「もっと自分らしく」「もっと美しく」理想の人生を送るための有益な情報が、たった1日で手に入れられるWoman Money
                     EXPOを開催しています。<br>
                     <br>
                     そして、会場には弊社の想いに共感し、女性を応援していただける企業様をもっと知っていただくために、ブランドコミュニケーションや製品キャンペーンを行えるブース出展の場を設置しています。<br>
@@ -64,7 +64,7 @@
                     <!-- <table>
                         <tr>
                             <td class="left">イベント概要</td>
-                            <td>Smart Beauty EXPO - Autumn 2019 -</td>
+                            <td>Woman Money EXPO - Autumn 2019 -</td>
                         </tr>
                         <tr>
                             <td class="left">日程</td>
