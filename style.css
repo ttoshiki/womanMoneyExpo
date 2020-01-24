@@ -151,7 +151,6 @@ table {
 
 .about__pageHeader {
   box-sizing: border-box;
-  height: 120px;
   padding: 24px 0;
   background-color: rgba(253, 239, 161, 0.7);
 }
@@ -524,6 +523,9 @@ table {
   .footer_logo {
     display: block;
     margin-bottom: 50px;
+  }
+  .footer_logo__img {
+    max-width: 312px;
   }
   .footer_info_link {
     color: #222222;
