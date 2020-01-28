@@ -16,7 +16,7 @@
           <h3>報道関係者様</h3>
         メディア等の取材に関しては、以下までご連絡ください。<br>
         <br>
-			  WOMAN MONEY EXPO 広報事務局<br>
+			  女性のためのマネーEXPO 広報事務局<br>
         担当：<a href="mailto:info@smartbe8.com" target="_blank">info@smartbe8.com</a>	  
       </div>
     </div>

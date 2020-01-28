@@ -4,8 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport"
 content="width=device-width, initial-scale=1.0 ">
+<meta property="og:url" content="http://womanmoney-expo.com/" />
+<meta property="og:site_name" content="WOMAN MONEY EXPO 2020（ウーマンマネーエキスポ）" />
+<meta property="og:image" content="<?php bloginfo('template_directory'); ?>/img/ogp_facebook.jpg" />
 <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
-<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.ico" />
+<link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/img/favicon.ico" />
 <link href="<?php bloginfo('template_directory'); ?>/js/slick-theme.css" rel="stylesheet" type="text/css">
 <link href="<?php bloginfo('template_directory'); ?>/js/slick.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/img/favicon.ico">

@@ -26,7 +26,7 @@
       } else {?>
       <div class="archive_info info_<?php echo $cat->category_nicename; ?>">
         <div class="speakersComingSoon">
-          <h2 class="speakersComingSoon__text">WOMAN MONEY EXPOならではのゲストをお楽しみに！！</h2>
+          <h2 class="speakersComingSoon__text">女性のためのマネーEXPOならではのゲストをお楽しみに！！</h2>
         </div>
         <h1 class="comingSoon">Coming Soon...</h1>
         <!-- <p>美容、ダイエット、女性のお悩み、多岐にわたる分野の第一線で活躍する女性たちをお招きし最新の情報をお届けします。</p> -->
