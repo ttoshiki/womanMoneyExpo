@@ -22,16 +22,13 @@
     <div class="backDrop"></div><span class="banner__preparation">準備中</span>
   </div>
   <div class="side_sns banner">
-    <div class="side_sns__link"><img src="<?php bloginfo('template_directory'); ?>/img/tw_banner.png" alt="公式Twitter"
-        class="snsImage">
-      <div class="side_sns__backDrop"></div><span class="banner__preparation">準備中</span>
-    </div>
-    <div class="side_sns__link"><img src="<?php bloginfo('template_directory'); ?>/img/ig_banner.png" alt="公式Instagram"
-        class="snsImage">
-      <div class="side_sns__backDrop"></div><span class="banner__preparation">準備中</span>
-    </div>
+     <a href="https://twitter.com/smartbeautyexpo" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/tw_banner.png" alt="公式Twitter"
+        >
+    </a>
+    <a href="https://www.instagram.com/smartbeautyexpo/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/ig_banner.png" alt="公式Instagram"
+        >
+    </a>
   </div>
-  <div class="banner"><img src="<?php bloginfo('template_directory'); ?>/img/line_banner.png" alt="LINE友だち登録">
-    <div class="line__backDrop"></div><span class="banner__preparation">準備中</span>
+  <div class="banner"><a href="http://nav.cx/5f8f2E4" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/line_banner.png" alt="LINE友だち登録"></a>
   </div>
 </aside>
