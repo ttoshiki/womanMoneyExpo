@@ -22,10 +22,10 @@
     <div class="backDrop"></div><span class="banner__preparation">準備中</span>
   </div>
   <div class="side_sns banner">
-     <a href="https://twitter.com/smartbeautyexpo" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/tw_banner.png" alt="公式Twitter"
+     <a href="https://twitter.com/womanmoneyexpo" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/tw_banner.png" alt="公式Twitter"
         >
     </a>
-    <a href="https://www.instagram.com/smartbeautyexpo/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/ig_banner.png" alt="公式Instagram"
+    <a href="https://www.instagram.com/woman_money_expo/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/ig_banner.png" alt="公式Instagram"
         >
     </a>
   </div>

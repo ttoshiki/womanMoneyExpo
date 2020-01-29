@@ -11,10 +11,10 @@
     <div class="contents">
       <div class="sch_info">
         <h1 class="comingSoon">Coming Soon</h1>
-        <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/ttable_ttl.png" alt="タイムテーブル"></h3>
-        <p class="sch_info_txt">講演・セッションへのご参加は事前申し込みとなります。お申し込み開始は9月中旬ごろを予定していますので今しばらくお待ちください。<br>
-        <br>
-        <a href="https://ex-pa.jp/item/14406/s34061" target="_blank">Woman Money EXPOの参加申し込みはこちら</a></p> -->
+        <h3><img src="<?php bloginfo('template_directory'); ?>/img/ttable_ttl.png" alt="タイムテーブル"></h3>
+        <p class="sch_info_txt">講演・セッションへのご参加は事前申し込みとなります。お申し込み開始は3月ごろを予定していますので、今しばらくお待ちください<br>
+        <!-- <br> -->
+        <!-- <a href="https://ex-pa.jp/item/14406/s34061" target="_blank">Woman Money EXPOの参加申し込みはこちら</a></p> -->
         <div class="sch_table">
           <!-- <div class="table_left">
             <ul>
