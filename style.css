@@ -1084,7 +1084,7 @@ table {
   .access_info .address {
     font-size: 16px;
     font-weight: bold;
-    color: #e4ba8f;
+    color: #f3af32;
     margin: 20px 0;
   }
   .access_info ul {
@@ -1099,7 +1099,7 @@ table {
     margin: 0 0 20px 0;
   }
   .access_info p a {
-    color: #e4ba8f;
+    color: #f3af32;
   }
   .access_info .map {
     position: relative;
@@ -2607,7 +2607,7 @@ table {
   .access_info .address {
     font-size: 14px;
     font-weight: bold;
-    color: #e4ba8f;
+    color: #f3af32;
     margin: 15px 0 10px;
   }
   .access_info ul {
@@ -2623,7 +2623,7 @@ table {
     margin: 0 0 20px 0;
   }
   .access_info p a {
-    color: #e4ba8f;
+    color: #f3af32;
   }
   .access_info .map {
     position: relative;
