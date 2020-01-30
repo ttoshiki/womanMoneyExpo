@@ -15,7 +15,7 @@
 
 年々規模を拡大して開催している「美」をメインテーマとした「Smart Beauty EXPO」
 では、昨年の秋に開催したさいには700名の女性の方にご参加いただけました。
-今回はテーマを「お金」に絞って、より大くの女性に賢く学んでいただける機会を提供したいと思っています。<br /><br />
+今回はテーマを「お金」に絞って、より多くの女性に賢く学んでいただける機会を提供したいと思っています。<br /><br />
 
 お金の流れを5サイクルにわけ「稼ぐ」「貯める」「使う」「増やす」「引き寄せる」を様々な角度から学べるよう、出版やメディアにて第一線で活躍する著名な方々によるトークセッションがあります。より楽しく！学べるようにノベルティやサンプル品の配布などイベントも盛りだくさんです！<br /><br />
 内面も美しく、賢い女性になる情報をお届けします。
@@ -42,7 +42,8 @@
           </tr>
           <tr>
             <td class="left">参加費</td>
-            <td>4,000円 申し込みは<a href="https://ex-pa.jp/item/14406/s38069" target="_blank">こちら</a>
+            <td>4,000円
+              <!-- 申込みは<a href="https://ex-pa.jp/item/14406/s38069" target="_blank">こちら</a> -->
               <br>※お得な速割引がございます
             </td>
           </tr>
@@ -65,10 +66,10 @@
           <li>都営浅草線「浅草橋」駅 A3出口より徒歩2分</li>
         </ul>
         <p>詳しくは<a href="http://hulic-hall.com/access/" target="_blank">こちら</a></p>
-        <a href="https://goo.gl/maps/GiFyZwdnc6RfqQn79" class="about_link mb30" target="_blank">Google Mapで見る</a>
+        <!-- <a href="https://goo.gl/maps/GiFyZwdnc6RfqQn79" class="about_link mb30" target="_blank">Google Mapで見る</a>
         <div class="map">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2015.3972822481655!2d139.78330186172718!3d35.697725814920325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188eb1f554340b%3A0x1d708d9588fa7140!2z5rWF6I2J5qmL44OS44Ol44O844Oq44OD44Kv44Ob44O844OrIO-8huODkuODpeODvOODquODg-OCryDjgqvjg7Pjg5XjgqHjg6zjg7Pjgrk!5e0!3m2!1sja!2sjp!4v1580304401073!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-        </div>
+        </div> -->
       </div>
     </div>
     <?php get_sidebar(); ?>

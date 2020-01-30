@@ -26,6 +26,7 @@
       } else {?>
       <div class="archive_info info_<?php echo $cat->category_nicename; ?>">
         <p>お金の各分野の第一線で活躍中のスペシャリストをお招きして、最新情報をお届けいたします。</p>
+        <h1 class="comingSoon">Coming Soon</h1>
         <!-- <p>美容、ダイエット、女性のお悩み、多岐にわたる分野の第一線で活躍する女性たちをお招きし最新の情報をお届けします。</p> -->
         <!-- <div class="info_link">
           <a href="" class="info_linkbtn">会場マップ</a>
