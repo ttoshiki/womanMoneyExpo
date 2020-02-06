@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div class="container_wrapper">
   <!-- <div class="udr_ttlimg"> -->
-    <!-- <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/about_udrttl.png" alt="開催概要"></div> -->
+  <!-- <div class="udr_ttlimg_inner"><img src="<?php bloginfo('template_directory'); ?>/img/about_udrttl.png" alt="開催概要"></div> -->
   <!-- </div> -->
   <div class="about__pageHeader">
     <h1 class="pageHeaderHeading">About<span class="pageHeaderJp">開催概要</span></h1>
@@ -10,20 +10,15 @@
     <div class="contents">
       <div class="about_summery">
         <h1>脱・知識ゼロ！貯金ゼロ！投資ゼロ！<br />たった1日で正しいお金の付き合い方が学べる祭典</h1>
-            <p>家事に仕事に、出産、育児、介護などライフステージがめまぐるしく変わる現代女性が「もっと自分らしく」「もっと賢く」生きられる世の中になって欲しい！<br><br>
-		  女性のためのマネーEXPOはそんな願いから生まれました。<br><br>
-
-年々規模を拡大して開催している「美」をメインテーマとした「Smart Beauty EXPO」
-では、昨年の秋に開催したさいには700名の女性の方にご参加いただけました。<br />
-今回はテーマを「お金」に絞って、より多くの女性に賢く学んでいただける機会を提供したいと思っています。<br /><br />
-
-お金の流れを5サイクルにわけ「稼ぐ」「貯める」「使う」「増やす」「引き寄せる」を様々な角度から学べるよう、出版やメディアにて第一線で活躍する著名な方々によるトークセッションがあります。より楽しく！学べるようにノベルティやサンプル品の配布などイベントも盛りだくさんです！<br /><br />
-内面も美しく、賢い女性になる情報をお届けします。
-
-<br><br><br>
-		  </p>
-      <!-- <a href="https://ex-pa.jp/item/14406/s38069" class="about_link" target="_blank">イベントへのお申し込みはこちら</a><br><br><br> -->
-<!-- <a href="http://smartbeauty-expo.com/wp-content/uploads/2019/10/map.pdf" class="about_link" target="_blank">会場マップはこちら</a> -->
+        <p>家事に仕事に、出産、育児、介護などライフステージがめまぐるしく変わる現代女性が「もっと自分らしく」「もっと賢く」生きられる世の中になって欲しい！<br><br>
+          女性のためのマネーEXPOはそんな願いから生まれました。<br><br>
+          今回はテーマを「お金」に絞って、より多くの女性に賢く学んでいただける機会を提供したいと思っています。<br /><br />
+          お金の流れを5サイクルにわけ「稼ぐ」「貯める」「使う」「増やす」「引き寄せる」を様々な角度から学べるよう、出版やメディアにて第一線で活躍する著名な方々によるトークセッションがあります。より楽しく！学べるようにノベルティやサンプル品の配布などイベントも盛りだくさんです！<br /><br />
+          内面も美しく、賢い女性になる情報をお届けします。
+          <br><br><br>
+        </p>
+        <!-- <a href="https://ex-pa.jp/item/14406/s38069" class="about_link" target="_blank">イベントへのお申し込みはこちら</a><br><br><br> -->
+        <!-- <a href="http://smartbeauty-expo.com/wp-content/uploads/2019/10/map.pdf" class="about_link" target="_blank">会場マップはこちら</a> -->
       </div>
       <div class="about_info">
         <h3><img src="<?php bloginfo('template_directory'); ?>/img/about_ttl.png" alt=""></h3>
