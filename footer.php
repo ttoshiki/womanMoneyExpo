@@ -34,7 +34,7 @@
     </ul>
   </div>
   <div class="footer_info">
-  <a class="footer_logo" href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_directory'); ?>/img/logo.png" alt="womanmoneyexpo" class="footer_logo__img"></a>
+  <a class="footer_logo" href="<?php echo home_url(); ?>"><img src="http://womanmoney-expo.com/wp/wp-content/uploads/2020/01/logo.jpg" alt="womanmoneyexpo" class="footer_logo__img"></a>
   <div class="footer_info_link"><a href="<?php echo home_url(); ?>/privacy">プライバシーポリシー</a> / <a href="<?php echo home_url(); ?>/sitemap">サイトマップ</a> / <a href="<?php echo home_url(); ?>/company">運営会社</a></div>
   <p class="copyright">Copyright(C) Smart Be All rights reserved.</p>
   </div>
