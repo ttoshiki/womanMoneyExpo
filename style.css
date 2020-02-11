@@ -209,6 +209,7 @@ table {
   }
   .header_logo {
     width: 308px;
+    margin-top: 3px;
   }
   .data {
     float: left;
