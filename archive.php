@@ -65,7 +65,7 @@
           <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/<?php echo $cat->category_nicename; ?>_ttl.png" alt=""></h3> -->
           <h3><img src="<?php bloginfo('template_directory'); ?>/img/speakers_udrttl.png" alt="" class="archive__speakersHeading"></h3>
         </div>
-        <img src="<?php bloginfo('template_directory'); ?>/img/spekers@2x.jpg" alt="登壇者一覧" class="archive__speakers">
+        <img src="<?php bloginfo('template_directory'); ?>/img/speakers@2x.jpg" alt="登壇者一覧" class="archive__speakers">
         <!-- <p class="archive_mainsubtitle info_<?php echo $cat->category_nicename; ?>">講演は今、女性が最も気になる17の旬のテーマでお送りします。<br>
     各セッションの写真やタイトルをクリックすると、詳しい内容をご確認いただけます。講演は事前申込制ですので、お席の確保をご希望の方は<a href="https://ex-pa.jp/item/14406/s38069" target="_blank">こちら</a>よりお申し込みください。</p>
     <p class="info_<?php echo $cat->category_nicename; ?>"><font size=2>※予告なしに登壇者が変更する可能性もございます。</font></p>
