@@ -26,15 +26,16 @@
       } else {?>
       <div class="archive_info info_<?php echo $cat->category_nicename; ?>">
         <p>お金の各分野の第一線で活躍中のスペシャリストをお招きして、最新情報をお届けいたします。</p>
-        <h1 class="comingSoon">Coming Soon</h1>
-        <!-- <p>美容、ダイエット、女性のお悩み、多岐にわたる分野の第一線で活躍する女性たちをお招きし最新の情報をお届けします。</p> -->
+        <!-- <h1 class="comingSoon">Coming Soon</h1> -->
         <!-- <div class="info_link">
           <a href="" class="info_linkbtn">会場マップ</a>
           <a href="" class="info_linkbtn">タイムスケジュール</a>
         </div> -->
         <div class="archive_theme">
-          <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/theme_ttl.png" alt=""></h3> -->
+          <h3><img src="<?php bloginfo('template_directory'); ?>/img/theme_ttl.png" alt=""></h3>
+          <img src="<?php bloginfo('template_directory'); ?>/img/money_cicle_chart.svg" alt="賢い女性になるためのお金のサイクル" class="archive__themeImage">
         </div>
+
         <!-- <div class="archive_beauty">
           <a href="<?php echo home_url(); ?>/speakers/jitsuko-okada/"><img src="<?php bloginfo('template_directory'); ?>/img/beauty01.png"></a>
           <a href="<?php echo home_url(); ?>/speakers/ayako-kakiuchi/"><img src="<?php bloginfo('template_directory'); ?>/img/beauty02.png"></a>
@@ -62,7 +63,9 @@
         <!-- </div> -->
         <div class="archive_title">
           <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/<?php echo $cat->category_nicename; ?>_ttl.png" alt=""></h3> -->
+          <h3><img src="<?php bloginfo('template_directory'); ?>/img/speakers_udrttl.png" alt="" class="archive__speakersHeading"></h3>
         </div>
+        <img src="<?php bloginfo('template_directory'); ?>/img/spekers@2x.jpg" alt="登壇者一覧" class="archive__speakers">
         <!-- <p class="archive_mainsubtitle info_<?php echo $cat->category_nicename; ?>">講演は今、女性が最も気になる17の旬のテーマでお送りします。<br>
     各セッションの写真やタイトルをクリックすると、詳しい内容をご確認いただけます。講演は事前申込制ですので、お席の確保をご希望の方は<a href="https://ex-pa.jp/item/14406/s38069" target="_blank">こちら</a>よりお申し込みください。</p>
     <p class="info_<?php echo $cat->category_nicename; ?>"><font size=2>※予告なしに登壇者が変更する可能性もございます。</font></p>
