@@ -6,7 +6,7 @@
 content="width=device-width, initial-scale=1.0 ">
 <meta property="og:url" content="http://womanmoney-expo.com/" />
 <meta property="og:site_name" content="WOMAN MONEY EXPO 2020（ウーマンマネーエキスポ）" />
-<meta property="og:image" content="<?php bloginfo('template_directory'); ?>/img/ogp_facebook.jpg" />
+<meta property="og:image" content="<?php bloginfo('template_directory'); ?>/img/ogp_facebook.png" />
 <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/img/favicon.ico" />
 <link href="<?php bloginfo('template_directory'); ?>/js/slick-theme.css" rel="stylesheet" type="text/css">
@@ -42,7 +42,7 @@ if (windowWidth <= windowSm) {
 <header>
   <div class="header-inner clearfix">
     <div class="headinfo clearfix">
-      <a class="logo" href="<?php echo home_url(); ?>"><img src="http://womanmoney-expo.com/wp/wp-content/uploads/2020/01/logo.jpg" alt="womanmoneyexpo" class="header_logo" style="margin-top:8px;"></a>
+      <a class="logo" href="<?php echo home_url(); ?>"><img src="http://womanmoney-expo.com/wp/wp-content/uploads/2020/01/logo.png" alt="womanmoneyexpo" class="header_logo"></a>
       <img class="data" src="<?php bloginfo('template_directory'); ?>/img/date.png" alt="2019.10.20[SUN]11:00 - 17:30">
     </div>
     <div class="headbutton"><a href="" target="_blank">お申し込みはこちら</a><div class="backDrop -header"></div><span class="banner__preparation">準備中</span></div>
