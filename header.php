@@ -7,6 +7,9 @@ content="width=device-width, initial-scale=1.0 ">
 <meta property="og:url" content="http://womanmoney-expo.com/" />
 <meta property="og:site_name" content="WOMAN MONEY EXPO 2020（ウーマンマネーエキスポ）" />
 <meta property="og:image" content="<?php bloginfo('template_directory'); ?>/img/ogp_facebook.png" />
+<?php if (is_home() || is_front_page()) : ?>
+<title>WOMAN MONEY EXPO 2020（ウーマンマネーエキスポ）</title>
+<?php endif; ?>
 <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/img/favicon.ico" />
 <link href="<?php bloginfo('template_directory'); ?>/js/slick-theme.css" rel="stylesheet" type="text/css">

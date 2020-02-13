@@ -10,11 +10,12 @@
     <div class="container clearfix">
         <div class="contents">
             <div class="faq_summery">
-                <h1 class="comingSoon">Coming Soon</h1>
-                <!-- <h1>発信力の高い700人の女性が集まる<br>
-                    Woman Money EXPO - Autumn 2019 -<br>
+                <!-- <h1 class="comingSoon">Coming Soon</h1> -->
+                <h1>楽しく！簡単に！もっとお金を身近に！<br>
+                    お金の基礎を学ぶ女性のための祭典<br>
+                    女性のためのマネーEXPO<br>
                     出展者募集</h1>
-                <h2 class="small">貴社の想いを700人の女性に直接届けませんか?</h2>
+                <h2 class="small">貴社の想いを500人の女性に直接届けませんか?</h2>
                 <p class="">女性の幸せには心と身体が美しくあることが必須であるとSmart
                     Beは考えます。しかし現代女性には仕事に結婚に妊娠・出産、親の介護など、どうしてもやりたいこと、やらねばならないことが多くあり、「美は後回し」という状態になってしまいがちです。<br>
                     <br>
@@ -23,7 +24,7 @@
                     <br>
                     そして、会場には弊社の想いに共感し、女性を応援していただける企業様をもっと知っていただくために、ブランドコミュニケーションや製品キャンペーンを行えるブース出展の場を設置しています。<br>
                     <br>
-                    来場するのは美意識が高く、自分の理想の人生を歩むための学びを求める700人の女性です。30〜40代の女性が中心で、その多くがSNSを使っています。 (その理由は下記<a
+                    来場するのは美意識が高く、自分の理想の人生を歩むための学びを求める500人の女性です。30〜40代の女性が中心で、その多くがSNSを使っています。 (その理由は下記<a
                         href=#smartbe>「Smart Beの取り組み」</a>参照）
                     SNS上で大きな影響力を持つインフルエンサーも多数参加されますので、貴社の素晴らしさがイベント後も世界中に拡散されていきます。<br>
                     <br>
@@ -59,27 +60,28 @@
                     <br>
                     <br>
                     <br>
-                </p> -->
+                </p>
 
                 <div class="about_info">
-                    <!-- <h3><img src="<?php bloginfo('template_directory'); ?>/img/exb_ttl.png" alt=""></!-->
+                    <h3><img src="<?php bloginfo('template_directory'); ?>/img/exb_ttl.png" alt=""></h3>
 
-                    <!-- <table>
+                    <table>
                         <tr>
                             <td class="left">イベント概要</td>
-                            <td>Woman Money EXPO - Autumn 2019 -</td>
+                            <td>女性のためのマネーEXPO</td>
                         </tr>
                         <tr>
                             <td class="left">日程</td>
-                            <td>10月20日(日) 11:00〜17:30(開場 10:30)</td>
+                            <td>5月30日(土) 11:00〜17:30(開場 10:30)</td>
                         </tr>
                         <tr>
                             <td class="left">会場</td>
-                            <td>品川駅から徒歩5分<br>
-                                品川インターシティホール<br>
-                                会場公式サイトは<a href="http://sic-hall.com/" target="_blank">こちら</a><br>
-                                <a class="about_info_link"
-                                    href="<?php echo home_url(); ?>/news/event-report-2019-spring/">前回のEXPOの様子</a></td>
+                            <td>JR総武本線「浅草橋」駅 西口から徒歩1分<br>
+                                都営浅草線「浅草橋」駅 A3出口より徒歩2分<br>
+                                浅草橋ヒューリックホール 3F<br>
+                                会場公式サイトは<a href="http://hulic-hall.com/access/" target="_blank">こちら</a><br>
+                                <!-- <a class="about_info_link"
+                                    href="<?php echo home_url(); ?>/news/event-report-2019-spring/">前回のEXPOの様子</a></td> -->
                         </tr>
                         <tr>
                             <td class="left">主催</td>
@@ -94,7 +96,7 @@
                             <td><a href="http://smartbe8.com/" target="_blank">http://smartbe8.com/</a></td>
                         </tr>
 
-                    </table> -->
+                    </table>
                 </div>
             </div>
         </div>
