@@ -33,7 +33,7 @@
                      </p>
                 <p>
                     <a class="about_link mb80"
-                        href="<?php echo home_url(); ?>/wp-content/themes/expo2019/pdf/exhibitionbooth.pdf"
+                        href="<?php bloginfo('template_directory'); ?>/pdf/exhibitionbooth.pdf"
                         target="_blank">出展企画書（PDF）ダウンロード</a>
                     <a class="about_link mb80" href="https://vimeo.com/373698360" target="_blank">前回のダイジェスト動画はこちら</a>
                 </p>
