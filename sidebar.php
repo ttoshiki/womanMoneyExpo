@@ -17,9 +17,8 @@
     </script>
   </div>
   <!-- <div class="banner"><a href="<?php echo home_url(); ?>/news/event-report-2019-spring"><img src="<?php bloginfo('template_directory'); ?>/img/arch_banne.png" alt="イベントレポート"></a></div> -->
-  <div class="banner"><img src="<?php bloginfo('template_directory'); ?>/img/exh_banner.png" alt="出展のご案内"
-      class="banner__information">
-    <div class="backDrop"></div><span class="banner__preparation">準備中</span>
+  <div class="banner"><a href="<?php echo home_url(); ?>/exhibit"><img src="<?php bloginfo('template_directory'); ?>/img/exh_banner.png" alt="出展のご案内"
+      class="banner__information"></a>
   </div>
   <div class="side_sns banner">
      <a href="https://twitter.com/womanmoneyexpo" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/tw_banner.png" alt="公式Twitter"
