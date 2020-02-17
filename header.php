@@ -45,7 +45,7 @@ if (windowWidth <= windowSm) {
       <a class="logo" href="<?php echo home_url(); ?>"><img src="http://womanmoney-expo.com/wp/wp-content/uploads/2020/01/logo.png" alt="女性のためのマネーEXPO" class="header_logo"></a>
       <img class="data" src="<?php bloginfo('template_directory'); ?>/img/date.png" alt="2019.10.20[SUN]11:00 - 17:30">
     </div>
-    <div class="headbutton"><a href="" target="_blank">お申し込みはこちら</a><div class="backDrop -header"></div><span class="banner__preparation">準備中</span></div>
+    <div class="headbutton"><a href="https://ex-pa.jp/item/24371" target="_blank">お申し込みはこちら</a></div>
   </div>
   <div class="nav">
     <div class="menu_button">
