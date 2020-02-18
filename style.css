@@ -7,6 +7,14 @@ Description: expo2019
 version： 1.0.0
 */
 
+:root {
+  --earnColor: #8687be;
+  --saveColor: #b582ae;
+  --useColor: #dfb68d;
+  --increaseColor: #a2d08c;
+  --attractColor: #89c6bc;
+}
+
 html {
   margin: 0;
   padding: 0;
@@ -180,6 +188,91 @@ table {
 
 .archive__speakers {
   max-width: 100%;
+}
+
+.archive__speakerInfo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.archive__tagName {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+  font-size: 26px;
+  font-weight: 400;
+  border-bottom: 2px solid;
+}
+
+.archive__tagName svg {
+  margin-right: 16px;
+}
+
+.archive__tagName.-earn {
+  border-color: var(--earnColor);
+}
+
+.svg_earn {
+  fill: var(--earnColor);
+}
+
+.archive__tagName.-save {
+  border-color: var(--saveColor);
+}
+
+.svg_save {
+  fill: var(--saveColor);
+}
+
+.archive__tagName.-use {
+  border-color: var(--useColor);
+}
+
+.svg_use {
+  fill: var(--useColor);
+}
+
+.archive__tagName.-increase {
+  border-color: var(--increaseColor);
+}
+
+.svg_increase {
+  fill: var(--increaseColor);
+}
+
+.archive__tagName.-attract {
+  border-color: var(--attractColor);
+}
+
+.svg_attract {
+  fill: var(--attractColor);
+}
+
+.archive__tagName svg {
+  width: 35px;
+}
+
+.archive__speaker {
+  width: 48.5%;
+  margin-bottom: 48px;
+}
+
+.archive__speakerImage {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+.archive__speakerPosition {
+  display: block;
+  text-align: center;
+  margin-top: 16px;
+}
+
+.archive__speakerName {
+  text-align: center;
+  margin: 12px auto 0;
+  font-size: 22px;
 }
 
 @media screen and (min-width: 897px) {
@@ -801,65 +894,6 @@ table {
   .container_eachone_booth .single_sentence p {
     line-height: 215%;
     font-size: 18px;
-  }
-  .archive_all {
-    display: flex;
-    flex-wrap: wrap;
-    /* border-bottom: solid 1px #cccccc; */
-    padding-bottom: 0px;
-    margin-bottom: 20px;
-  }
-  .archive_all .article {
-    width: 320px;
-    margin-bottom: 40px;
-  }
-  .archive_all .article a.article_thumbnail {
-    display: block;
-    margin-bottom: 10px;
-    width: 320px;
-  }
-  .archive_all .article a.article_thumbnail img {
-    width: 100%;
-  }
-  .archive_all .article .article_subtitle {
-    font-size: 14px;
-    color: #222222;
-    margin: 0 0 5px 0;
-    line-height: 165%;
-  }
-  　　　　.archive_all .article .article_subtitle b {
-    color: #222222;
-  }
-
-  .archive_all .article h2.article_title {
-    margin: 0 0 5px 0;
-    line-height: 120%;
-  }
-  .archive_all .article h2.article_title a {
-    color: #e4ba8f;
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
-  }
-  .archive_all .article .article_sentence p {
-    font-size: 13px;
-    line-height: 165%;
-    margin: 0 0 10px 0;
-  }
-  .archive_all .article .article_tag a {
-    text-decoration: none;
-    color: #e4ba8f;
-    padding: 5px 10px;
-    height: 15px;
-    margin: 0 5px 10px 0;
-    border: solid 1px #e4ba8f;
-    border-radius: 30px;
-    display: inline-block;
-    line-height: 120%;
-    font-size: 12px;
-  }
-  .archive_all .article:nth-child(odd) {
-    margin-right: 20px;
   }
   .archive_pager div a {
     text-decoration: none;
@@ -2317,65 +2351,6 @@ table {
     line-height: 215%;
     font-size: 18px;
   }
-  .archive_all {
-    display: flex;
-    flex-wrap: wrap;
-    /* border-bottom: solid 1px #cccccc; */
-    padding-bottom: 0px;
-    margin-bottom: 20px;
-    width: 100%;
-  }
-  .archive_all .article {
-    width: 48%;
-    margin-bottom: 40px;
-  }
-  .archive_all .article a.article_thumbnail {
-    display: block;
-    margin-bottom: 5px;
-    width: 100%;
-  }
-  .archive_all .article a.article_thumbnail img {
-    width: 100%;
-  }
-  .archive_all .article .article_subtitle {
-    font-size: 12px;
-    color: #222222;
-    margin: 0 0 5px 0;
-  }
-
-  .archive_all .article h2.article_title {
-    margin: 0 0 5px 0;
-    line-height: 80%;
-  }
-  .archive_all .article .article_subtitle b {
-    color: #222222;
-  }
-  .archive_all .article h2.article_title a {
-    color: #e4ba8f;
-    text-decoration: none;
-    font-size: 14px;
-    font-weight: bold;
-  }
-  .archive_all .article .article_sentence p {
-    font-size: 11px;
-    line-height: 165%;
-    margin: 0 0 10px 0;
-  }
-  .archive_all .article .article_tag a {
-    text-decoration: none;
-    color: #e4ba8f;
-    padding: 5px 10px;
-    height: 15px;
-    margin: 0 5px 10px 0;
-    border: solid 1px #e4ba8f;
-    border-radius: 30px;
-    display: inline-block;
-    line-height: 120%;
-    font-size: 12px;
-  }
-  .archive_all .article:nth-child(odd) {
-    margin-right: 4%;
-  }
   .archive_pager div a {
     text-decoration: none;
     background-color: #e4ba8f;
@@ -3177,5 +3152,13 @@ table {
   }
   .archive_banner_img01 img {
     width: 100%;
+  }
+  .archive__speakerPosition {
+    margin-top: 12px;
+    font-size: 14px;
+  }
+  .archive__speakerName {
+    margin: 4px auto 0;
+    font-size: 20px;
   }
 }
