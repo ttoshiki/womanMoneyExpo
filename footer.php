@@ -13,9 +13,7 @@
   <!-- <div class="footer_cvimg_sp"><img src="<?php bloginfo('template_directory'); ?>/img/footer_cvimg_sp.png" alt=""></div> -->
   <div class="footer_cvbtn">
     <div class="footer_cvbtn__wrapper">
-      <a href="" target="_blank">イベントへのお申し込みはこちら</a>
-      <span class="footer_cvbtn__backDrop"></span>
-      <span class="banner__preparation">準備中</span>
+      <a href="https://ex-pa.jp/item/24371" target="_blank">イベントへのお申し込みはこちら</a>
     </div>
   </div>
 </div>

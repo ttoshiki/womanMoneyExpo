@@ -21,9 +21,8 @@
         <h3><img src="<?php bloginfo('template_directory'); ?>/img/faq_ttl.png" alt=""></h3>
         <div class="faq_info_one">
           <p class="q mt30">Q:EXPOへの参加方法を教えてください。</p>
-          <p>現在準備中です。申し込みが可能になるまでお待ちください。</p>
-          <!-- <p>A:下記よりお申し込みいただけます。奮ってご参加ください。</p> -->
-          <!-- <a href="" target="_blank">お申し込みはこちら</a> -->
+          <p>A:下記よりお申し込みいただけます。奮ってご参加ください。</p>
+          <a href="https://ex-pa.jp/item/24371" target="_blank">お申し込みはこちら</a>
           <p>また、本イベントは大きく分けて「講義・セッション」「展示ブース」の2つから構成されています。</P>
           <a href="<?php echo home_url(); ?>/category/speakers">講演・セッションの一覧はこちらから</a>
           <!-- <p class="a_small">※当日空きがあれば、予約がなくてもご入場可能です。<br> -->
