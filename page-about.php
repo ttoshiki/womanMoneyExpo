@@ -38,8 +38,8 @@
           <tr>
             <td class="left">参加費</td>
             <td>5,000円
-              <!-- 申込みは<a href="https://ex-pa.jp/item/14406/s38069" target="_blank">こちら</a> -->
-              <br>※お得な早割引がございます
+              申し込みは<a href="https://ex-pa.jp/item/24371" target="_blank">こちら</a>
+              <br>※お得な早割がございます
             </td>
           </tr>
           <tr>
